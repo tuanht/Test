@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#define AUTHOR "Tuan Ha"
+
 void swap_char (char *chr1, char *chr2)
 {
   char tmp = *chr1;
