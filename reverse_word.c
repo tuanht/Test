@@ -42,8 +42,6 @@ char * reverse_word (const char *str)
 int main (int argc, char **argv)
 {
   printf ("%s\n", reverse_word ("student am I"));
-  printf ("%s\n", reverse_word ("Fool a You"));
-  printf ("%s\n", reverse_word ("string a is this"));
   
   return 0;
 }
