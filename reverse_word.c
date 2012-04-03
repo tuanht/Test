@@ -4,6 +4,8 @@
 
 #define AUTHOR "Tuan Ha"
 
+/* sss */
+
 void swap_char (char *chr1, char *chr2)
 {
   char tmp = *chr1;
